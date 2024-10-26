@@ -1,7 +1,7 @@
 # Angstrom React Native Challenge
 
 This project contains a starter setup for a React Native Project. 
-The goal sof this challenge is to create a simple app that displays a list of Premier League teams. 
+The goal of this challenge is to create a simple app that displays a list of Premier League teams. 
 The list of teams should appear after launching the app and should be fetched from the provided API.
 
 ## API Documentation
